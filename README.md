@@ -1,6 +1,7 @@
 # LLMs-IGTv6
 # IGTv6 LLMs (10B+ parameters), trained to answer users' questions naturally like a human with a huge amount of knowledge and continuous updates.
-
+# There are many versions from 1B, 2B, 3B, 4B, 5B, 6B (mid-range segment), 7B, 8B, 9B, 10B+ parameters.
+# The parameters are mainly about code, online information, wiki pages, and the ability to identify good questions and high quality feedback.
 
 # Summary of how it works:
 # User text input: The user enters a question into the interface.
